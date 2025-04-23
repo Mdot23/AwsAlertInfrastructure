@@ -20,6 +20,9 @@
     "inlineSources": true,
     "experimentalDecorators": true,
     "strictPropertyInitialization": false,
+    "paths": {
+      "lib/*": ["./lib/functions"]
+    },
     "typeRoots": [
       "./node_modules/@types"
     ]
